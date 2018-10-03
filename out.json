@@ -1,0 +1,78 @@
+[locale: "en"
+description: "$8,301.29\n$2,104.74\n$42.62\n"
+bounding_poly {
+  vertices {
+    x: 8
+    y: 14
+  }
+  vertices {
+    x: 659
+    y: 14
+  }
+  vertices {
+    x: 659
+    y: 875
+  }
+  vertices {
+    x: 8
+    y: 875
+  }
+}
+, description: "$8,301.29"
+bounding_poly {
+  vertices {
+    x: 10
+    y: 14
+  }
+  vertices {
+    x: 659
+    y: 23
+  }
+  vertices {
+    x: 657
+    y: 171
+  }
+  vertices {
+    x: 8
+    y: 162
+  }
+}
+, description: "$2,104.74"
+bounding_poly {
+  vertices {
+    x: 25
+    y: 198
+  }
+  vertices {
+    x: 615
+    y: 224
+  }
+  vertices {
+    x: 609
+    y: 361
+  }
+  vertices {
+    x: 19
+    y: 335
+  }
+}
+, description: "$42.62"
+bounding_poly {
+  vertices {
+    x: 151
+    y: 744
+  }
+  vertices {
+    x: 525
+    y: 754
+  }
+  vertices {
+    x: 522
+    y: 875
+  }
+  vertices {
+    x: 148
+    y: 865
+  }
+}
+]
